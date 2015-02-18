@@ -2,3 +2,4 @@
 #*.txt
 # log/*.log  - это выражение не позволит игнорировать такой файл log/archive/access.log  т.к. * не включает знак /
 tempfile.txt
+tempfile2.txt
